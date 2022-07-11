@@ -1,6 +1,6 @@
 # TikTok-Checker
-TikTok Viewbot: https://github.com/xtekky/TikTok-ViewBot
-TikTok Checker and Autoclaimer -> FILTERS BANNED USERNAMES
+- TikTok Viewbot: https://github.com/xtekky/TikTok-ViewBot
+- TikTok Checker and Autoclaimer -> FILTERS BANNED USERNAMES
 
 > 25 stars = release checker
 
