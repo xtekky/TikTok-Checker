@@ -1,4 +1,6 @@
-# TikTok-Checker
+<h2 align="center">Filter banned users > https://github.com/xtekky/TikTok-Checker-Api</h2>
+
+TikTok-Checker
 - TikTok Viewbot: https://github.com/xtekky/TikTok-ViewBot
 - TikTok Checker and Autoclaimer -> FILTERS BANNED USERNAMES
 
@@ -11,3 +13,8 @@
 
 > 200 stars = release Checker and Claimer using Real TikTok check API
 -->
+
+#### Demo:
+<p align="center"> 
+<img src="https://github.com/xtekky/TikTok-Checker-Api/raw/main/demo/checker.gif"></img>
+</p>
