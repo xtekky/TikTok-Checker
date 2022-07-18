@@ -1,4 +1,4 @@
-<h2 align="center">Filter banned users > https://github.com/xtekky/TikTok-Checker-Api</h2>
+<h2 align="center">app check api - https://github.com/xtekky/TikTok-Checker-Api</h2>
 
 TikTok-Checker
 - TikTok Viewbot: https://github.com/xtekky/TikTok-ViewBot
