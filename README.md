@@ -1,5 +1,7 @@
 <h2 align="center">app check api - https://github.com/xtekky/TikTok-Checker-Api</h2>
 
+-> will have prv api to check uniqueid/check app api 100% precise
+
 TikTok-Checker
 - TikTok Viewbot: https://github.com/xtekky/TikTok-ViewBot
 - TikTok Checker and Autoclaimer -> FILTERS BANNED USERNAMES
