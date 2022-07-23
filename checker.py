@@ -1,1 +1,1 @@
-sikeeee buy api params for 300 ; )
+discord.gg/xtwitch
