@@ -1,1 +1,1 @@
-get 70 stars and I release unpatched one with /uniqueid/check lol
+get 60 stars and I release unpatched one with /uniqueid/check lol
