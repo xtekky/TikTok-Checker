@@ -37,9 +37,9 @@ class Checker:
             "device_id"         : random.randint(
                 6999999999999999999, 7122222222222222222
             ),
-            "focus_state": True,
-            "from_page": "user",
-            "history_len": 3,
+            "focus_state"       : True,
+            "from_page"         : "user",
+            "history_len"       : 3,
             "is_fullscreen"     : False,
             "is_page_visible"   : True,
             "os"                : "windows",
