@@ -20,7 +20,6 @@ class Checker:
         this.checked     = 0
         this.rpm         = 0
         this.rps         = 0
-        this.proxies     = 'http://xtekky:qpqpqp@geo.iproyal.com:12321'
         
         this.user_agent = r'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'
     
@@ -101,7 +100,8 @@ class Checker:
                     'webcast_language'  :	'en',
                 })
 
-                response = client.get(this.sign(f'https://www.tiktok.com/api/uniqueid/check/?{params}'), headers=headers, proxy = this.proxies).text.encode(); this.checked += 1
+                response = client.get(this.sign(f'https://www.tiktok.com/api/uniqueid/check/?{params}'), 
+                            headers = headers, proxy = f'http://{choice(this.proxies)}', timeout=10).text.encode(); this.checked += 1
                 
                 if b'valid":false' in response:
                     print(f'res: {response}')
