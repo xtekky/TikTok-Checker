@@ -1,0 +1,12 @@
+{
+    "threads": 10,
+    "retries": 3,
+    "telegram": {
+        "bot_token": "",
+        "chat_id": ""
+    },
+    "webhook": {
+        "enabled": true,
+        "url": ""
+    }
+}
